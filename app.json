@@ -13,7 +13,8 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.youcefben47.wordle-clone"
     },
     "android": {
       "adaptiveIcon": {
